@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Giraギャラティック･タイトロープ",
+  "base_artist": "MY☆DREAM（cv.伊達朱里紗、大地葉、山田唯菜）",
+  "createdAt": "2025-12-12T18:32:16.350514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Giraギャラティック･タイトロープ",
+      "artist": "WITH（cv.山下誠一郎、小林竜之、土田玲央）",
+      "has_synced": true,
+      "path": "select/01_Giraギャラティック・タイトロープ_WITH(cv.山下誠一郎、小林竜之、土田玲央).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Giraギャラティック・タイトロープ",
+      "artist": "WITH",
+      "has_synced": true,
+      "path": "select/02_Giraギャラティック・タイトロープ_WITH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Giraギャラティック・タイトロープ -MY☆DREAM Ver.-",
+      "artist": "MY☆DREAM",
+      "has_synced": false,
+      "path": "select/pl_01_Giraギャラティック・タイトロープ_-MY☆DREAM_Ver.-_MY☆DREAM.txt"
+    }
+  ]
+}
